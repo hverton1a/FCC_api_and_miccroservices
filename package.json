@@ -1,6 +1,7 @@
 {
 	"author": "Heverton Vieira Horvat Barbosa",
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
